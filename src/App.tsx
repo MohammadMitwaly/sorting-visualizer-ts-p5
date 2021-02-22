@@ -4,9 +4,9 @@ import {MainSketch} from './Components/MainSketch';
 
 function App() {
   return (
-    <div className="App">
+      <>
       <MainSketch/>
-    </div>
+      </>
   );
 }
 
